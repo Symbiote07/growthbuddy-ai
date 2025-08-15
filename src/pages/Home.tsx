@@ -10,7 +10,7 @@ const Home = () => {
       <section 
         id="home" 
         className="py-20 text-white relative bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: 'url(/lovable-uploads/14879b44-9a42-4595-ac97-c0328618aa9d.png)' }}
+        style={{ backgroundImage: 'url(/lovable-uploads/2c23ddda-26e8-41b8-a979-f8a49310e822.png)' }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
