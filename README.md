@@ -1,73 +1,151 @@
-# Welcome to your Lovable project
+# DigitalDynamo - AI-Powered Chatbot Platform
 
-## Project info
+Transform your business with intelligent chatbots designed for modern customer engagement.
 
-**URL**: https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd
+## 🚀 Features
 
-## How can I edit this code?
+- **Intelligent AI Responses** - Advanced natural language processing for accurate customer interactions
+- **Lead Generation** - Automatically capture and qualify leads through intelligent conversations
+- **Real-time Responses** - 24/7 instant customer support
+- **Analytics Dashboard** - Comprehensive insights and performance metrics
+- **Multi-Platform Integration** - Deploy across websites, social media, and messaging platforms
+- **Enterprise Security** - Bank-level security with encryption and compliance standards
 
-There are several ways of editing your application.
+## 🛠️ Technology Stack
 
-**Use Lovable**
+### Frontend
+- **React 18** with TypeScript for type-safe development
+- **Vite** for fast development and building
+- **Tailwind CSS** for responsive, utility-first styling
+- **shadcn/ui** for beautiful, accessible UI components
+- **React Router** for client-side routing
+- **Tanstack Query** for efficient data fetching
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd) and start prompting.
+### Backend & Database
+- **Supabase** for backend-as-a-service
+- **PostgreSQL** database with Row Level Security
+- **Real-time subscriptions** for live chat functionality
+- **Authentication** with email/password and social providers
 
-Changes made via Lovable will be committed automatically to this repo.
+### Key Dependencies
+- `@supabase/supabase-js` - Supabase client
+- `@tanstack/react-query` - Data fetching and caching
+- `react-hook-form` + `zod` - Form handling and validation
+- `lucide-react` - Beautiful icons
+- `sonner` - Toast notifications
 
-**Use your preferred IDE**
+## 📊 Database Schema
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Core Tables
+- **profiles** - User profile information
+- **leads** - Captured lead data from chatbot interactions
+- **chat_messages** - Real-time chat message storage
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Getting Started
 
-Follow these steps:
+### Prerequisites
+- Node.js 18+ and npm
+- Supabase account for backend services
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+### Local Development
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
+cd digitaldynamo
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Install dependencies
+npm install
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Environment Setup
+This project uses Supabase for backend services. The Supabase configuration is automatically handled through Lovable's integration.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Deployment
 
-**Use GitHub Codespaces**
+### Quick Deploy with Lovable
+1. Open your [Lovable Project](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd)
+2. Click **Publish** in the top-right corner
+3. Your app will be deployed with a lovable.app domain
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Custom Domain
+To connect your own domain:
+1. Navigate to Project > Settings > Domains
+2. Click "Connect Domain"
+3. Follow the DNS configuration steps
 
-## What technologies are used for this project?
+### Self-Hosting Options
+The codebase is standard React/Vite and can be deployed to:
+- Vercel
+- Netlify  
+- AWS Amplify
+- Any static hosting service
 
-This project is built with:
+## 🔧 Development
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Project Structure
+```
+src/
+├── components/          # Reusable UI components
+│   ├── ui/             # shadcn/ui components
+│   ├── Navbar.tsx      # Navigation component
+│   ├── Footer.tsx      # Footer component
+│   └── Chatbot.tsx     # Main chatbot interface
+├── pages/              # Route components
+│   ├── Home.tsx        # Landing page
+│   ├── Dashboard.tsx   # User dashboard
+│   └── Auth.tsx        # Authentication page
+├── hooks/              # Custom React hooks
+├── lib/                # Utility functions
+└── integrations/       # Supabase integration
+```
 
-## How can I deploy this project?
+### Available Scripts
+```bash
+npm run dev          # Start development server
+npm run build        # Build for production
+npm run preview      # Preview production build
+npm run lint         # Run ESLint
+```
 
-Simply open [Lovable](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd) and click on Share -> Publish.
+## 🔒 Security Features
 
-## Can I connect a custom domain to my Lovable project?
+- Row Level Security (RLS) policies on all database tables
+- User authentication and authorization
+- Secure API endpoints through Supabase Edge Functions
+- Data encryption in transit and at rest
 
-Yes, you can!
+## 📈 Analytics & Monitoring
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+The platform includes built-in analytics for:
+- Chat conversation metrics
+- Lead conversion tracking
+- User engagement analytics
+- Performance monitoring
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 🤝 Contributing
+
+This project was built with [Lovable](https://lovable.dev), an AI-powered development platform.
+
+### Making Changes
+- **Via Lovable**: Use the AI chat interface for guided development
+- **Local Development**: Clone repo, make changes, and push to GitHub
+- **Visual Edits**: Use Lovable's Visual Edits feature for quick UI changes
+
+## 📞 Support
+
+For technical support or feature requests:
+1. Use the in-app chatbot for immediate assistance
+2. Contact support through the dashboard
+3. Visit our [documentation](https://docs.lovable.dev)
+
+## 📄 License
+
+This project is built with Lovable and follows standard web development practices.
+
+---
+
+**Ready to transform your customer experience?** Start your free trial today!
