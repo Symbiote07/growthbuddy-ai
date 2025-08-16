@@ -8,7 +8,7 @@
   </p>
   
   <p align="center">
-    <a href="https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd">🚀 Live Demo</a> •
+    <a href="https://growthbuddy-ai.lovable.app/">🚀 Live Demo</a> •
     <a href="#-features">Features</a> •
     <a href="#-installation">Installation</a> •
     <a href="#-documentation">Documentation</a> •
