@@ -67,7 +67,7 @@ This project uses Supabase for backend services. The Supabase configuration is a
 ## 🌐 Deployment
 
 ### Quick Deploy with Lovable
-1. Open your [Lovable Project](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd)
+1. Open your [Project](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd)
 2. Click **Publish** in the top-right corner
 3. Your app will be deployed with a lovable.app domain
 
