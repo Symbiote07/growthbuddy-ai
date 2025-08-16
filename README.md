@@ -487,8 +487,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   </a>
 </p>
 
-**Built with ❤️ using [Lovable](https://lovable.dev) • Made with passion for better customer experiences**
-
-⭐ **Star us on GitHub** if this project helped you!
-
 </div>
