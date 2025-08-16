@@ -55,21 +55,35 @@ Experience DigitalDynamo in action! The live demo showcases all features includi
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="public/lovable-uploads/14879b44-9a42-4595-ac97-c0328618aa9d.png" alt="DigitalDynamo Dashboard" width="800"/>
-  <p><em>Modern Dashboard Interface with Analytics</em></p>
+
+### 🏠 Hero Section - Landing Page
+<img src="public/lovable-uploads/bee01c8f-b0d1-47ed-ad9c-d734300292ad.png" alt="DigitalDynamo Hero Section" width="800"/>
+<p><em>Engaging hero section with AI-powered customer engagement visualization</em></p>
+
+### ✨ Features Section - Platform Capabilities  
+<img src="public/lovable-uploads/084e934b-09cf-4d03-9f11-8673821d1be0.png" alt="DigitalDynamo Features" width="800"/>
+<p><em>Comprehensive feature showcase highlighting AI responses, lead generation, and analytics</em></p>
+
+### 📞 Contact Section - Customer Engagement
+<img src="public/lovable-uploads/db6d7ab7-789c-40a1-a902-cd5f702a4521.png" alt="DigitalDynamo Contact Form" width="800"/>
+<p><em>Professional contact form with integrated chatbot for immediate assistance</em></p>
+
+### 📊 Dashboard Overview
+<img src="public/lovable-uploads/14879b44-9a42-4595-ac97-c0328618aa9d.png" alt="DigitalDynamo Dashboard" width="800"/>
+<p><em>Modern analytics dashboard with real-time metrics and insights</em></p>
+
 </div>
 
 <details>
-<summary>🖼️ More Screenshots</summary>
+<summary>🖼️ Technical Features</summary>
 
-### Hero Section
-<img src="public/lovable-uploads/2c23ddda-26e8-41b8-a979-f8a49310e822.png" alt="Hero Section" width="600"/>
-
-### Features Overview
-- **Responsive Design**: Works seamlessly across all devices
-- **Dark/Light Mode**: Supports user preference themes
-- **Real-time Chat**: Instant messaging capabilities
-- **Analytics Dashboard**: Comprehensive reporting tools
+### Key Platform Highlights
+- **📱 Mobile Responsive**: Perfect viewing on all devices (phones, tablets, desktop)
+- **🎨 Modern UI/UX**: Clean, professional design with intuitive navigation
+- **⚡ Real-time Chat**: Instant messaging capabilities with AI responses
+- **📊 Analytics Dashboard**: Comprehensive reporting and monitoring tools
+- **🔒 Enterprise Security**: Bank-level security with role-based access
+- **🌐 Multi-platform**: Works across web, mobile, and integration platforms
 
 </details>
 
