@@ -48,7 +48,7 @@ DigitalDynamo is a cutting-edge AI-powered chatbot platform designed to revoluti
 
 ## 🚀 Live Demo
 
-🌐 **[View Live Application](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd)**
+🌐 **[View Live Application](https://growthbuddy-ai.lovable.app/)**
 
 Experience DigitalDynamo in action! The live demo showcases all features including AI-powered chatbots, lead generation, and real-time analytics.
 
