@@ -282,11 +282,11 @@ npm run type-check   # Run TypeScript compiler
 
 ## 🌐 Deployment
 
-### Quick Deploy with Lovable
-1. Open your [Project](https://lovable.dev/projects/67c1984d-b869-4c60-85bc-1d42da3bb7dd)
+### Quick Deploy 
+1. Open your [Project](https://growthbuddy-ai.lovable.app/)
 2. Click **Publish** in the top-right corner
-3. Your app will be deployed with a lovable.app domain
-
+3. Your app will be deployed.
+   
 ### Custom Domain
 To connect your own domain:
 1. Navigate to Project > Settings > Domains
@@ -345,7 +345,7 @@ The platform includes built-in analytics for:
 ## 📚 Documentation
 
 ### 📖 **Official Documentation**
-- [**Lovable Documentation**](https://docs.lovable.dev/) - Complete platform guide
+- [**Documentation**](https://docs.lovable.dev/) - Complete platform guide
 - [**Supabase Documentation**](https://supabase.com/docs) - Backend services guide
 - [**React Documentation**](https://react.dev/) - Frontend framework guide
 - [**Tailwind CSS Documentation**](https://tailwindcss.com/docs) - Styling framework guide
@@ -397,7 +397,7 @@ We welcome contributions from the community! This project is built with [Lovable
 - **Security**: Implement proper security measures
 
 ### 🛠️ **Development Methods**
-- **Via Lovable**: Use the AI chat interface for guided development
+- **Via**: Use the AI chat interface for guided development
 - **Local Development**: Clone repo, make changes, and push to GitHub
 - **Visual Edits**: Use Lovable's Visual Edits feature for quick UI changes
 
